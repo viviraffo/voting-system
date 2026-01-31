@@ -1,4 +1,4 @@
-
+// Using Map for dynamic key-value pairs and Set to automatically handle unique voters
 let poll = new Map([
   ["OptionA", new Set()],
   ["OptionB", new Set()],
